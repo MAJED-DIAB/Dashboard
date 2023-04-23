@@ -15,6 +15,17 @@
     --youtupe: #CD201F;
     --twet: #1DA1F2;
     --linked:  #0A66C2;
+
+    --main-color: #F39C12;
+    --alt-main-color: #D68910;
+    --black: #34495E;
+    --alt-black: #1C2833 ;
+    --eee: #fff;
+    --hover-color: #3c5a74;
+    --sorange: #ff6600;
+    --sgreen: #239B56  ;
+    --sblue: ##3498DB ;
+    --sred: #CB4335 ;
 }
 /* VAR */
 /* aside */
@@ -734,7 +745,7 @@ header form input[type=search] {
 .page-profile .cards .box2>div .info:hover {
     background: var(--alt-black);
 }
-.pag-z .cards .box2>div .info>div {
+.page-profile .cards .box2>div .info>div {
     min-width: 230px;
 }
 @media (max-width:992px) {
